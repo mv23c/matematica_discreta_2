@@ -1,4 +1,4 @@
-# matematica_discreta_2
+# Matemática Discreta 2
 
 Um estudante está desenvolvendo uma função de segurança para validar acessos em um sistema. Essa função baseiase
 na ideia de "verificação modular", utilizando os conceitos de congruência, primalidade, coprimalidade, Pequeno
