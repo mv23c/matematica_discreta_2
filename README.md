@@ -12,10 +12,10 @@ Zn:
 
 Implemente um programa em C que tenha (dados de entrada):
 
-  • três números inteiros positivos H, G e n, usados para calcular a base a
+  • Três números inteiros positivos H, G e n, usados para calcular a base a
 
-  • um expoente x
+  • Um expoente x
 
-  • um módulo n1
+  • Um módulo n1
 
 CALCULAR: a^x mod n1
