@@ -10,9 +10,7 @@ Zn:
 
 (Ex: 38⊘79 em Z252 , generalizando: H⊘G em Zn )
 
-Implemente um programa em C que tenha:
-
-Dados de entrada:
+Implemente um programa em C que tenha (dados de entrada):
 
   • três números inteiros positivos H, G e n, usados para calcular a base a
 
